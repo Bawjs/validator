@@ -1,0 +1,19 @@
+{
+  "name": "@bawjs/validator",
+  "author": {
+    "name": "Bawjs contributors"
+  },
+  "keywords": [
+    "bawjs",
+    "validator",
+    "validate",
+    "sanitize",
+    "check"
+  ],
+  "license": "MIT",
+  "description": "An validator for Bawjs Framework",
+  "version": "0.0.1-alpha",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
